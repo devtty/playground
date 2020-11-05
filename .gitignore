@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+geotools/.settings/org.eclipse.core.resources.prefs
+geotools/.settings/org.eclipse.jdt.apt.core.prefs
+geotools/.settings/org.eclipse.jdt.core.prefs
+geotools/.settings/org.eclipse.m2e.core.prefs
+geotools/.classpath
+geotools/.project
+.vscode/settings.json
+fq/fq/src/main/resources/credentials.json
