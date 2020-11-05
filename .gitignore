@@ -29,3 +29,4 @@ geotools/.classpath
 geotools/.project
 .vscode/settings.json
 fq/fq/src/main/resources/credentials.json
+tokens/StoredCredential
